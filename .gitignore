@@ -1,1 +1,10 @@
+# Eclipse metadata
 .metadata/
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+target/
+*.class
